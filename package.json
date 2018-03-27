@@ -1,0 +1,19 @@
+{
+  "name": "camera-controller",
+  "version": "1.0.0",
+  "description": "Controller for multiple Yi cameras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-wells/lrc-camera-controller.git"
+  },
+  "author": "Alex Wells (alexander.g.wells@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-wells/lrc-camera-controller/issues"
+  },
+  "homepage": "https://github.com/alex-wells/lrc-camera-controller#readme"
+}
